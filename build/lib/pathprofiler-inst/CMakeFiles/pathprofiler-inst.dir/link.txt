@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libpathprofiler-inst.a  CMakeFiles/pathprofiler-inst.dir/PathEncodingPass.cpp.o CMakeFiles/pathprofiler-inst.dir/PathProfilingPass.cpp.o CMakeFiles/pathprofiler-inst.dir/ProfileDecodingPass.cpp.o CMakeFiles/pathprofiler-inst.dir/InnermostLoops.cpp.o
+/usr/bin/ranlib ../libpathprofiler-inst.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libpathprofiler-rt.a  CMakeFiles/pathprofiler-rt.dir/runtime.cpp.o
+/usr/bin/ranlib ../libpathprofiler-rt.a
